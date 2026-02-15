@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "BulletDrive.slnx"
+    "dotnet.defaultSolution": "BulletRush.slnx"
 }
